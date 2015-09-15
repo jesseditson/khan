@@ -84,6 +84,7 @@ Params:
 
   * `requestToken` - The request token you received in the previous request
   * `verifier` - The oauth verifier returned by the authorize step
+  * `tokenSecret` - the token secret you received in te previous request
 
 #### Example - Getting an access token
 
